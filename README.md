@@ -32,6 +32,8 @@ Per MechaCar's design specifications, the variance for the supsension coils must
 ### Lot 3
 <img width="414" alt="lot3_t_test" src="https://user-images.githubusercontent.com/99417460/174417364-573b16e8-7ea0-465d-ad14-bd40fa0ef0a4.png">
 
+## Study Design: MechaCar vs Competition
+
 
 
 
