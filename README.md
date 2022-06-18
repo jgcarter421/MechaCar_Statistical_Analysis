@@ -22,15 +22,19 @@ Per MechaCar's design specifications, the variance for the supsension coils must
 ## T-Tests on Suspension Coils
 ### Total Summary
 <img width="434" alt="t_test_total" src="https://user-images.githubusercontent.com/99417460/174417337-f79c3db4-e31a-49c3-88f4-5ae7b780e478.png">
+With a P Value of 0.06, we fail to reject our null hypothesis.
 
 ### Lot 1
 <img width="416" alt="lot1_t_test" src="https://user-images.githubusercontent.com/99417460/174417345-2168f863-7935-475d-82a3-5a067f6600ee.png">
+P Value = 1, therefore we fail to reject our null hypothesis.
 
 ### Lot 2
 <img width="412" alt="lot2_t_test" src="https://user-images.githubusercontent.com/99417460/174417357-8992f484-30aa-4ddd-91a8-e7d1ce867f97.png">
+With a P Value of 0.61, we fail to reject our null hypothesis.
 
 ### Lot 3
 <img width="414" alt="lot3_t_test" src="https://user-images.githubusercontent.com/99417460/174417364-573b16e8-7ea0-465d-ad14-bd40fa0ef0a4.png">
+With a P Value of 0.04, we reject our null hypothesis in favor of the alternative.
 
 ## Study Design: MechaCar vs Competition
 
