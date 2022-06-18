@@ -2,7 +2,8 @@
 
 ## Linear Regression to Predict MPG
 <img width="516" alt="linear_regression_mpg" src="https://user-images.githubusercontent.com/99417460/174354507-e1b867af-a71d-4c70-8cc8-c78e6a684091.png">
-**Statistical Summary of Using Linear Regression to Predict Fuel Efficiency**
+
+#### Statistical Summary of Using Linear Regression to Predict Fuel Efficiency
 
 1. The **Vehicle Lenght** and **Ground Clearance** variables provided a non-random amount of variance to the mpg values in the dataset.  On the other hand, the vehicle weight, spoiler angle, and AWD (also known as All Wheel Drive) each indicate a random amount of variance to the dataset.
 
